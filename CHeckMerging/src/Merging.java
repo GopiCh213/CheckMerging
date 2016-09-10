@@ -3,7 +3,7 @@ public class Merging {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("a1");
+System.out.println("a1j");
 	}
 
 }
